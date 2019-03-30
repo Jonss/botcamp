@@ -1,8 +1,8 @@
 import React from 'react';
-import "./style.css"
+import "./style.css";
 
 const BtnBotcamp = () => (
-    <button className="btn-botcamp">Entrar</button>
+    <button className='btn-botcamp'>Entrar</button>
 );
 
 export default BtnBotcamp;
